@@ -3,5 +3,8 @@
 @import "./utils/mixins";
 @import "./base/reset";
 @import "./layout/header";
-
+@import "./pages/card.scss";
+@import "./pages/modal";
+@import "./pages/forms";
+@import "./pages/product";
 @import "./layout/footer"
